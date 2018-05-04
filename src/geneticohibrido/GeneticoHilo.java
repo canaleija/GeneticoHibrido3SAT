@@ -39,6 +39,17 @@ public class GeneticoHilo implements Runnable{
        
     public void evolucionar() {
       // implementación del genétio
+      // se genera la población inicial (aleatoria
+      
+      do{
+       // se va construir una nueva población 
+       // muestreo
+       // aplican sus operadores 
+      
+      
+      } while(this.run);
+      
+      
     }
 
     @Override
